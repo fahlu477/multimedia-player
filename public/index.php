@@ -353,7 +353,7 @@ if (isset($_GET['action']) && $_GET['action'] === 'testDatabase') {
         #runningText {
             white-space: nowrap;
             position: absolute;
-            animation: marquee 180s linear infinite;
+            animation: marquee 240s linear infinite;
             padding-left: 100%;
             font-size: 3.5rem;
             font-weight: bold;
